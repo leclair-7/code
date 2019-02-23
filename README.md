@@ -15,7 +15,7 @@ For an example to compile in bash for chapter 01
 g++ Game.h Game.cpp Main.cpp -lSDL2
 
 
-I hope this works on Ubuntu 18.04 (I'm not there yet):
+I hope this works on Ubuntu 18.04 (I'm not there yet): <p></p>
 Code for Chapter 7 and beyond uses the FMOD API for audio. This requires
 a separate installation from (https://www.fmod.com/download). Download
 and install version 1.09.x of the FMOD Studio API (newer versions are untested).
